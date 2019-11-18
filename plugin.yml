@@ -1,0 +1,9 @@
+name: DRCase
+main: dev.vederko.drcase.main.MainClass
+version: 1.0
+author: getLucky48
+website: vk.com/getLucky48
+commands:
+  drcase:
+    aliases: [drc, dailyrestcase, dc]
+    usage: /drcase

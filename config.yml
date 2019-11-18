@@ -1,0 +1,121 @@
+plugins:
+  cmd_drcase:
+    enabled: true
+    cases:
+      Донат_кейс:
+        name: §b§lДонат кейс
+        color: §b
+        border: 3
+        Items:
+          fly:
+            name: §b[Флай]
+            min: 0
+            max: 25
+          vip:
+            name: §e[Вип]
+            min: 26
+            max: 50
+          premium:
+            name: §2[Премиум]
+            min: 51
+            max: 65
+          creative:
+            name: §d[Креатив]
+            min: 66
+            max: 81
+          moder:
+            name: §c[Модератор]
+            min: 82
+            max: 94
+          admin:
+            name: §4[Админ]
+            min: 95
+            max: 100
+        location:
+          x: -524.0
+          y: 61.0
+          z: 697.0
+          world: world
+      Обычные_титулы:
+        name: '§8§lОбычные титулы'
+        color: '§b'
+        border: 7
+        location:
+          x: -531.0
+          y: 61.0
+          z: 688.0
+          world: world
+      Редкие_титулы:
+        name: '§7§lРедкие титулы'
+        color: '§b'
+        border: 8
+        location:
+          x: -529.0
+          y: 61.0
+          z: 688.0
+          world: world
+      Моб_титулы:
+        name: '§2§lМоб титулы'
+        color: '§2'
+        border: 13
+        location:
+          x: -527.0
+          y: 61.0
+          z: 688.0
+          world: world
+      Военные_титулы:
+        name: '§a§lВоенные титулы'
+        color: '§a'
+        border: 5
+        location:
+          x: -525.0
+          y: 61.0
+          z: 688.0
+          world: world
+      Магические_титулы:
+        name: '§9§lМагические титулы'
+        color: '§9'
+        border: 11
+        location:
+          x: -523.0
+          y: 61.0
+          z: 688.0
+          world: world
+      Хайповые_титулы:
+        name: '§d§lХайповые титулы'
+        color: '§d'
+        border: 6
+        location:
+          x: -521.0
+          y: 61.0
+          z: 688.0
+          world: world
+      Чемпионские_титулы:
+        name: '§6§lЧемпионские титулы'
+        color: '§6'
+        border: 1
+        location:
+          x: -519.0
+          y: 61.0
+          z: 688.0
+          world: world
+      Игровые_титулы:
+        name: '§e§lИгровые титулы'
+        color: '§e'
+        border: 4
+        location:
+          x: -517.0
+          y: 61.0
+          z: 688.0
+          world: world
+      Запрещенные_титулы:
+        name: '§c§lЗапрещенные титулы'
+        color: '§c'
+        border: 14
+        location:
+          x: -515.0
+          y: 61.0
+          z: 688.0
+          world: world
+
+    
